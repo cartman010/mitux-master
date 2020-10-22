@@ -1710,12 +1710,12 @@ svg .cls-3 {
 }
 
 .transparent-bg-shape:after {
-  /*background-size: cover;*/
+  background-size: 100%;
   background-image: url("../img/shape_1-Copie.svg");
 }
 
 .transparent-bg-shape:before {
-  /*background-size: cover;*/
+  background-size: 100%;
   background-image: url(../img/shape_2_cpy.svg);
 }
 
