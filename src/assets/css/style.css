@@ -1511,12 +1511,12 @@ svg .cls-3 {
 .hero-area {
   overflow: hidden;
   position: relative;
-  padding: 2px 0 110px;
+  padding: 2px 0 2px;
 }
 
 @media only screen and (min-width: 0px) and (max-width: 991px) {
   .hero-area {
-    padding: 160px 0;
+    padding: 2px 0 2px;
   }
 }
 
@@ -1599,9 +1599,6 @@ svg .cls-3 {
   }
 }
 
-.hero-content {
-  margin-bottom: 1000px;
-}
 
 .hero-content h1 {
   font-weight: 400;
@@ -1710,12 +1707,12 @@ svg .cls-3 {
 }
 
 .transparent-bg-shape:after {
-  background-size: 100%;
+  background-size: cover;
   background-image: url("../img/shape_1-Copie.svg");
 }
 
 .transparent-bg-shape:before {
-  background-size: 100%;
+  background-size: cover;
   background-image: url(../img/shape_2_cpy.svg);
 }
 
