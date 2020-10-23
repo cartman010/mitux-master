@@ -4298,8 +4298,22 @@ svg .cls-3 {
   border-radius: 100px;
 }
 
+.colonnes-container {
+  display: table; /* Make the container element behave like a table */
+  width: 100%; /* Set full-width to expand the whole page */
+  height: 100%;
+  border-radius: 100px;
+}
+
+.colonnes {
+  display: table-cell; /* Make elements inside the container behave like table cells */
+  width: 33%;
+  height: 100%;
+  border-radius: 100px;
+}
+
 @media only screen and (max-width: 767px) {
-  .col {
+  .colonnes {
     display: block;
     width: 100%;
   }
