@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920"
-   height="147.33136"
-   viewBox="0 0 1920 147.33136"
+   height="271.33136"
+   viewBox="0 0 1920 271.33136"
    version="1.1"
    id="svg9"
    sodipodi:docname="banner_shape.svg"
@@ -24,16 +24,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1264"
-     inkscape:window-height="762"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview11"
      showgrid="false"
      inkscape:zoom="0.55048947"
      inkscape:cx="978.18909"
-     inkscape:cy="227.33549"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cy="348.16117"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg9"
      inkscape:document-rotation="0"
      fit-margin-top="-86.4"
@@ -61,7 +61,7 @@
             <dc:format>image/svg+xml</dc:format>
             <dc:type
                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Work>
         </rdf:RDF>
       </metadata>
@@ -79,8 +79,8 @@
     </style>
   </defs>
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999999"
-     d="M -33.192313,4.3548049 C 165.9389,96.615897 353.247,47.480157 545.02325,26.630247 883.13039,-10.128735 1295.2686,119.11752 1499.1807,136.80044 c 166.8951,6.02326 314.8373,-22.14533 423.3713,-87.494953 1.925,0.008 1.6361,-26.52456 1.6256,-24.57492 l -1.8492,338.077003 c -0.01,1.94964 -1.5497,3.51926 -3.4746,3.51926 H -29.49399 c -1.924911,0 -3.474569,-1.5696 -3.474569,-3.51926 V 17.238777 c 0,-1.94966 -1.591032,-14.2563321 -0.223754,-12.8839721 z"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.702337"
+     d="m -20.476357,195.04017 c 199.131217,45.51039 386.439317,21.2728 578.215567,10.98799 338.10714,-18.13241 750.24529,45.62196 954.15739,54.34455 166.8951,2.97115 314.8373,-10.9238 423.3713,-43.15934 1.925,0.004 1.6361,-13.084 1.6256,-12.12228 l -1.8492,166.76602 c -0.01,0.96171 -1.5497,1.73598 -3.4746,1.73598 H -16.778034 c -1.924911,0 -3.474569,-0.77425 -3.474569,-1.73598 V 201.39555 c 0,-0.96173 -1.591032,-7.03234 -0.223754,-6.35538 z"
      id="rect1736" />
   <path
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
